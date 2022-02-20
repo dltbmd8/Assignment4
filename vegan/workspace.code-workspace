@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "WEB",
+			"path": "."
+		},
+		{
+			"path": "..\\new"
+		},
+		{
+			"path": "..\\Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEB"
+	}
+}
